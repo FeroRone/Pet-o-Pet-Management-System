@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Hamster
+comment1.params=name\ age\ cageSize\ favouriteFood
+comment1.target=Hamster(java.lang.String,\ int,\ int,\ java.lang.String)
+comment2.params=HamsterFavFood
+comment2.target=void\ feed(java.lang.String)
+comment3.params=
+comment3.target=void\ rolling()
+comment4.params=
+comment4.target=void\ makeSound()
+comment5.params=
+comment5.target=void\ burrow()
+comment6.params=
+comment6.target=void\ exploreObstaclesCourse()
+comment7.params=
+comment7.target=void\ cleanCage()
+numComments=8

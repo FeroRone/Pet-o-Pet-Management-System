@@ -1,0 +1,2 @@
+Bird;cici;0;5;6;kuaci;1720576516000;true
+Bird;kiki;0;0;3;kuaci;1720576516019;false

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=FileManager
+comment1.params=pets
+comment1.target=void\ savePets(java.util.List)
+comment2.params=
+comment2.target=java.util.List\ loadPets()
+numComments=3
