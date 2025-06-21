@@ -1,8 +1,6 @@
 # Pet-o-Pet-Management-System
 My semester two java oop group project. Pet o is a pet management system that can allow user to track their pet happiness, hunger and age.  This project has so much more room to be improved but for now here is the submitted version.
 
-# Pet-o-Pet Management System 🐾
-
 ## Overview
 The **Pet-o-Pet Management System** is a Java-based console application that simulates the management of a pet service business. It allows customers to register, log in, book pet services (like grooming or boarding), and manage pet profiles. Admins can view bookings and customer details. All data is stored using text files.
 
@@ -45,7 +43,6 @@ This project showcases basic Java programming skills using object-oriented princ
 javac Main.java
 java Main
 
-File Structure
 Pet-o-Pet-Management-System/
 ├── Main.java             # Entry point of the system
 ├── Customer.java         # Customer-related logic and data
