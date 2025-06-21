@@ -45,13 +45,21 @@ java Main
 
 Pet-o-Pet-Management-System/
 ├── Main.java             # Entry point of the system
+
 ├── Customer.java         # Customer-related logic and data
+
 ├── Admin.java            # Admin functions and data viewing
+
 ├── Pet.java              # Pet object model
+
 ├── Service.java          # Services and price handling
+
 ├── CustomerData.txt      # Stores customer info
+
 ├── PetData.txt           # Stores pet records
+
 ├── Booking.txt           # Stores booking details
+
 └── README.md             # Project information (this file)
 
 Sample Output (Console)
